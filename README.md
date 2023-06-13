@@ -32,7 +32,7 @@
 </br>
 
 <p align="center">
-  <img src="/gif1_coding.gif" alt="animated" width="350"/>
+  <img src="/media/gif1_coding.gif" alt="animated" width="350"/>
 </p>
 </br>
 
@@ -45,7 +45,7 @@
 </br>
 
 <p align="center">
-  <img src="/gif3_code.gif" alt="animated" width="350"/>
+  <img src="/media/gif3_code.gif" alt="animated" width="350"/>
 </p>
 </br>
 
@@ -147,14 +147,14 @@ npm run electron
 
 #### Menu do programa
  <p align="center">
-  <img src="/image.png"  width="700"/>
+  <img src="/media/image.png"  width="700"/>
 </p>
 </br>
 
 
 #### Imagem mostrando a criação de treinamentos
  <p align="center">
-  <img src="/image2.png"  width="700"/>
+  <img src="/media/image2.png"  width="700"/>
 </p>
 </br>
 
